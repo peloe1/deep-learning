@@ -1,0 +1,1 @@
+"conda activate DeepLearning" aluksi terminaaliin
